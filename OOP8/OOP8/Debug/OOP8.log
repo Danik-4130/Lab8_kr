@@ -1,0 +1,7 @@
+﻿  OOP8.cpp
+c:\users\mikha\source\repos\itg\мои пробы\oop8\oop8\board.h(34): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\mikha\source\repos\itg\мои пробы\oop8\oop8\board.h(191): warning C4129: /: неизвестная escape-последовательность
+c:\users\mikha\source\repos\itg\мои пробы\oop8\oop8\board.h(193): warning C4129: /: неизвестная escape-последовательность
+c:\users\mikha\source\repos\itg\мои пробы\oop8\oop8\board.h(164): warning C4101: key: неиспользованная локальная переменная
+c:\users\mikha\source\repos\itg\мои пробы\oop8\oop8\oop8.cpp(108): warning C4101: key: неиспользованная локальная переменная
+  OOP8.vcxproj -> C:\Users\mikha\source\repos\ItG\мои пробы\OOP8\Debug\OOP8.exe
